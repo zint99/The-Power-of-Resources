@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./title.png">
+</div>
+
 # The Power of Resources
 > *The Power of Resources: Unlocking Productivity and Skill Development*
 

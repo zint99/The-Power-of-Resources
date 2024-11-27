@@ -1,5 +1,8 @@
 # The Power of Resources
-> The Power of Resources: Unlocking Productivity and Skill Development
+> *The Power of Resources: Unlocking Productivity and Skill Development*
+
+[![Issues](https://img.shields.io/github/issues/zint99/The-Power-of-Resources)](https://github.com/zint99/The-Power-of-Resources)
+[![Stars](https://img.shields.io/github/stars/zint99/The-Power-of-Resources)](https://github.com/zint99/The-Power-of-Resources)
 
 A constantly updated collection of useful resources for boosting productivity and leveling up skills, including websites and tools.
 
@@ -17,7 +20,7 @@ Feel free to share this list, star it, and [contribute](#contributing) your own 
 - [cs-self-learning](https://github.com/pkuflyingpig/cs-self-learning/) - 计算机自学指南
 
 <div align="right">
-  <b>[↥ Back To Top](#index)</b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Refs
@@ -26,7 +29,7 @@ Feel free to share this list, star it, and [contribute](#contributing) your own 
 - [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 
 <div align="right">
-  <b>[↥ Back To Top](#index)</b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 # Contributing
@@ -38,5 +41,5 @@ Feel free to share this list, star it, and [contribute](#contributing) your own 
 - If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/zint99/The-Power-of-Resources/issues).
 
 <div align="right">
-  <b>[↥ Back To Top](#index)</b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>

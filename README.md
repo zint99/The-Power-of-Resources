@@ -17,13 +17,13 @@ PS. At present, the items collected by this repo are only the collection after *
 
 ## Index
 
-- [CS](#cs)
+- [IT](#it)
   - [Roadmap](#roadmap)
 - [Tools](#tools)
   - [Notes](#notes)
 - [Refs](#refs)
 
-## CS
+## IT
 
 ### Roadmap
 

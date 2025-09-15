@@ -28,6 +28,7 @@ PS. At present, the items collected by this repo are only the collection after *
 ### Roadmap
 
 - [cs-self-learning](https://github.com/pkuflyingpig/cs-self-learning/) - 计算机自学指南
+- [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN/tree/master) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
